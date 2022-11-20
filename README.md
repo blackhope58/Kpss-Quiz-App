@@ -9,6 +9,5 @@
     <img width="400px" src="./assets/3.jpg">
      <img width="400px" src="./assets/4.jpg">
     <img width="400px" src="./assets/5.jpg"><br/>
-    <img width="400px" src="./assets/6.jpg">
   </a>
 </p>
