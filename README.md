@@ -1,4 +1,4 @@
-<h2>Currency-Exchange-App</h2>
+<h2>Kpss Quiz App</h2>
 <p>With React Native </p>
 
 
